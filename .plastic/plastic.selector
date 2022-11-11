@@ -1,0 +1,4 @@
+repository "The_Living_Book@Arigaia_Sekuin@cloud"
+  path "/"
+    br "/main"
+    co "/main"

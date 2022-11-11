@@ -610,7 +610,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: STARTER_ASSETS_PACKAGES_CHECKED
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -698,8 +699,8 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
-  cloudProjectId: 
+  activeInputHandler: 1
+  cloudProjectId: d04c0cc1-594c-433f-a4b1-f3563401a2d2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 
